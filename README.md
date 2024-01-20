@@ -1,6 +1,11 @@
 # JVC 2.0
 ### *Un forum nouvelle génération*
 
+Par:
+@Mickap1
+@STCB
+@Sergey111Borisenko
+
 ------------------------------------------------------
 
 ## Concept
